@@ -17,8 +17,6 @@ home:
     children:
       - title: "Standardized Tests"
         url: /psat
-      - title: "Computer Science 101"
-        url: /cs101
       - title: "Algebra 2"
         url: /alg2
   - title: Contact
@@ -29,50 +27,6 @@ home:
         url: contact.md
 
 # course links
-cs101:
-  - title: Getting Started
-    children:
-      - title: "Quick-Start Guide"
-        url: /docs/quick-start-guide/
-      - title: "Structure"
-        url: /docs/structure/
-      - title: "Installation"
-        url: /docs/installation/
-      - title: "Upgrading"
-        url: /docs/upgrading/
-  - title: Customization
-    children:
-      - title: "Configuration"
-        url: /docs/configuration/
-      - title: "Overriding Theme Defaults"
-        url: /docs/overriding-theme-defaults/
-      - title: "Navigation"
-        url: /docs/navigation/
-      - title: "UI Text"
-        url: /docs/ui-text/
-      - title: "Authors"
-        url: /docs/authors/
-      - title: "Layouts"
-        url: /docs/layouts/
-  - title: Content
-    children:
-      - title: "Working with Posts"
-        url: /docs/posts/
-      - title: "Working with Pages"
-        url: /docs/pages/
-      - title: "Working with Collections"
-        url: /docs/collections/
-      - title: "Helpers"
-        url: /docs/helpers/
-      - title: "Utility Classes"
-        url: /docs/utility-classes/
-  - title: Extras
-    children:
-      - title: "Stylesheets"
-        url: /docs/stylesheets/
-      - title: "JavaScript"
-        url: /docs/javascript/
-
 psat:
   - title: Knowledge-Check
     children:
@@ -117,46 +71,46 @@ psat:
       - title: "Effective Language"
         url: /docs/javascript/
 
-sat:
-  - title: Getting Started
+alg2:
+  - title: Knowledge-Check
     children:
-      - title: "Quick-Start Guide"
-        url: /docs/quick-start-guide/
-      - title: "Structure"
-        url: /docs/structure/
-      - title: "Installation"
-        url: /docs/installation/
-      - title: "Upgrading"
-        url: /docs/upgrading/
-  - title: Customization
+      - title: "Knowledge-Check 0"
+        url: /psat/assess/assess_first
+  - title: Foundations
     children:
-      - title: "Configuration"
-        url: /docs/configuration/
-      - title: "Overriding Theme Defaults"
-        url: /docs/overriding-theme-defaults/
-      - title: "Navigation"
-        url: /docs/navigation/
-      - title: "UI Text"
-        url: /docs/ui-text/
-      - title: "Authors"
-        url: /docs/authors/
-      - title: "Layouts"
-        url: /docs/layouts/
-  - title: Content
+      - title: "Logic"
+        url: /psat/modules/foundations/logic/propositional.md
+      - title: "Logic Total Review"
+        url: /psat/modules/foundations/logic/total_review.md
+      - title: "Test-Taking"
+        url: /psat/modules/foundations/logic/psat_format.md
+      - title: "Active Vocabulary"
+        url: /psat/modules/foundations/logic/active_acquisition.md
+      - title: "Passive Vocabulary"
+        url: /psat/modules/foundations/logic/passive_acquisition.md
+  - title: Math
     children:
-      - title: "Working with Posts"
+      - title: "Exponents, Roots, & Polynomials"
         url: /docs/posts/
-      - title: "Working with Pages"
+      - title: "Rates, Ratio, & Percent"
         url: /docs/pages/
-      - title: "Working with Collections"
+      - title: "Word Problems"
         url: /docs/collections/
-      - title: "Helpers"
+      - title: "Systems of Equations"
         url: /docs/helpers/
-      - title: "Utility Classes"
-        url: /docs/utility-classes/
-  - title: Extras
+  - title: English
     children:
-      - title: "Stylesheets"
+      - title: "Inferential Knowledge"
         url: /docs/stylesheets/
-      - title: "JavaScript"
+      - title: "Vocabulary"
+        url: /docs/javascript/
+      - title: "Re-iterating Detail"
+        url: /docs/javascript/
+  - title: Writing
+    children:
+      - title: "Understanding Intention"
+        url: /docs/stylesheets/
+      - title: "Grammar"
+        url: /docs/javascript/
+      - title: "Effective Language"
         url: /docs/javascript/
