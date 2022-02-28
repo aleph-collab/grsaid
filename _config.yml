@@ -282,7 +282,7 @@ defaults:
         nav: "home"
   # _pages
   - scope:
-      path: "_pages/cs101.md"
+      path: _pages/alg2/*"
       type: pages
     values:
       layout: single
@@ -291,9 +291,9 @@ defaults:
       share: false
       comments: false
       sidebar:
-        nav: "cs101"
+        nav: "alg2"
   - scope:
-      path: "_pages/psat/"
+      path: "_pages/psat/*"
       type: pages
     values:
       layout: single
