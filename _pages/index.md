@@ -22,6 +22,23 @@ feature_row2:
 
 Welcome back Grace! 
 
+## Upcoming Sessions
+
+|    Date    | Reschedule |
+| ---------- | ---------- |
+| 03/06/2022 | <a href="mailto:aleph.instance@gmail.com?subject=Reschedule 03/06/2022">Reschedule</a> |
+| 03/13/2022 | <a href="mailto:aleph.instance@gmail.com?subject=Reschedule 03/13/2022">Reschedule</a> |
+| 03/20/2022 | <a href="mailto:aleph.instance@gmail.com?subject=Reschedule 03/20/2022">Reschedule</a> | 
+| 03/27/2022 | <a href="mailto:aleph.instance@gmail.com?subject=Reschedule 03/27/2022">Reschedule</a> |
+| 04/03/2022 | <a href="mailto:aleph.instance@gmail.com?subject=Reschedule 04/03/2022">Reschedule</a> |
+| 04/10/2022 | <a href="mailto:aleph.instance@gmail.com?subject=Reschedule 04/10/2022">Reschedule</a> |
+| 04/17/2022 | <a href="mailto:aleph.instance@gmail.com?subject=Reschedule 04/17/2022">Reschedule</a> |
+| 04/24/2022 | <a href="mailto:aleph.instance@gmail.com?subject=Reschedule 04/24/2022">Reschedule</a> |
+
+If you'd like to modify your regular availability, please email us at <a href="mailto:aleph.instance@gmail.com?subject=Change Availability">aleph.instance@gmail.com</a>.
+
+We will get back to you within the same day!
+
 ## In Progress
 
 {% include feature_row %}

@@ -7,12 +7,6 @@ main:
 
 # home-page links
 home:
-  - title: Schedule
-    children:
-      - title: "View Upcoming Sessions"
-        url: /docs/quick-start-guide/
-      - title: "Reschedule"
-        url: /docs/structure/
   - title: Curriculums
     children:
       - title: "Standardized Tests"
@@ -21,10 +15,12 @@ home:
         url: /alg2
   - title: Contact
     children:
-      - title: "Help Guides"
+      - title: "Guides"
         url: "https://alephinst.com/help"
       - title: "Contact Page"
-        url: contact.md
+        url: /contact
+      - title: "Referral"
+        url: /referral
 
 # course links
 psat:
