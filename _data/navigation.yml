@@ -9,7 +9,7 @@ main:
 home:
   - title: Curriculums
     children:
-      - title: "Standardized Tests"
+      - title: "PSAT"
         url: /psat
       - title: "Algebra 2"
         url: /alg2

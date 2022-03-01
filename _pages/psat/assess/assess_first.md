@@ -4,7 +4,7 @@ title: Assessment
 ---
 
 <style>
-    div {
+    .e-content {
         font-size: 16px;
     }
 </style>
