@@ -1,3 +1,8 @@
+---
+permalink: /psat/modules/foundations/logic_review
+title: Assessment
+---
+
 # Review
 
 ## Propositonal Logic

@@ -31,7 +31,7 @@ psat:
   - title: Foundations
     children:
       - title: "Logic"
-        url: /psat/modules/foundations/logic/propositional.md
+        url: /psat/modules/foundations/logic
       - title: "Logic Total Review"
         url: /psat/modules/foundations/logic/total_review.md
       - title: "Test-Taking"

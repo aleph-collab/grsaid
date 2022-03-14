@@ -1,3 +1,8 @@
+---
+permalink: /psat/modules/foundations/logic
+title: Assessment
+---
+
 # Logic
 
 * What is logic?
