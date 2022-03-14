@@ -1,9 +1,8 @@
 ---
 permalink: /psat/modules/foundations/logic
-title: Assessment
+title: Logic
 ---
 
-# Logic
 
 * What is logic?
   * To put it simply, it's figuring out if a statement is exactly true or exactly false. It's the process of removing any ambiguity!
