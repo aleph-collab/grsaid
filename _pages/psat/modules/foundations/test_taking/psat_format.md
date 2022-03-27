@@ -1,3 +1,9 @@
+---
+permalink: /psat/modules/foundations/psat_format
+title: Logic
+---
+
+
 # PSAT Format
 
 * The PSAT is a timed exam, so even if you had perfect knowledge and capability to answer each question to the best of your knowledge, you are still limited without a "good plan of attack."

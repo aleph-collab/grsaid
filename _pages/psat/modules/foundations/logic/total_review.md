@@ -1,5 +1,5 @@
 ---
-permalink: /psat/modules/foundations/logic_review
+permalink: /psat/modules/foundations/total_review
 title: Assessment
 ---
 
