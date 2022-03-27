@@ -33,9 +33,9 @@ psat:
       - title: "Logic"
         url: /psat/modules/foundations/logic
       - title: "Logic Total Review"
-        url: /psat/modules/foundations/logic/total_review
+        url: /psat/modules/foundations/logic_review
       - title: "Test-Taking"
-        url: /psat/modules/foundations/logic/psat_format
+        url: /psat/modules/foundations/psat_format
       - title: "Active Vocabulary"
         url: /psat/modules/foundations/logic/active_acquisition.md
       - title: "Passive Vocabulary"
