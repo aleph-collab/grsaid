@@ -1,4 +1,7 @@
-# Review
+---
+permalink: /psat/modules/exponents/exponents_review
+title: Exponents Review
+---
 
 ## Exponents
  

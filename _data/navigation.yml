@@ -44,6 +44,8 @@ psat:
     children:
       - title: "Exponents, Roots, & Polynomials"
         url: /psat/modules/exponents/exponents_1
+      - title: "Exponents Review"
+        url: /psat/modules/exponents/exponents_review
       - title: "Rates, Ratio, & Percent"
         url: /docs/pages/
       - title: "Word Problems"
