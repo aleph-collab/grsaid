@@ -1,4 +1,7 @@
-# Passive Acquisiton of Vocab Words
+---
+permalink: /psat/modules/foundations/active_vocab
+title: Passive Acquisiton of Vocab Words
+---
 
 * An expanded vocabulary only serves as a boon to the PSAT & SAT: it helps enhance essays, clarify questions, and reveal answers. 
   * For the PSAT, it is recommended to passively acquire new vocabulary words through natural means, like reading articles, books, or any other form of literature (as long as it contains words that you do not recognize!)

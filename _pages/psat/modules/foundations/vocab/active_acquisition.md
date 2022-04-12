@@ -1,4 +1,8 @@
-# Active Acquisiton of Vocab Words
+---
+permalink: /psat/modules/foundations/active_vocab
+title: Active Acquisiton of Vocab Words
+---
+
 
 * In the active method of vocab acquisition, these 30 minutes should be spent reading but rather studying a dedicated list of words. Aim for 15 new words each day. (rote memory)
   * Set a timer for 30 minutes
