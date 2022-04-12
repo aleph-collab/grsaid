@@ -1,5 +1,5 @@
 ---
-permalink: /psat/modules/foundations/active_vocab
+permalink: /psat/modules/foundations/passive_vocab
 title: Passive Acquisiton of Vocab Words
 ---
 

@@ -37,13 +37,13 @@ psat:
       - title: "Test-Taking"
         url: /psat/modules/foundations/psat_format
       - title: "Active Vocabulary"
-        url: /psat/modules/foundations/logic/active_acquisition.md
+        url: /psat/modules/foundations/active_vocab
       - title: "Passive Vocabulary"
-        url: /psat/modules/foundations/logic/passive_acquisition.md
+        url: /psat/modules/foundations/passive_vocab
   - title: Math
     children:
       - title: "Exponents, Roots, & Polynomials"
-        url: /docs/posts/
+        url: /psat/modules/exponents/exponents_1
       - title: "Rates, Ratio, & Percent"
         url: /docs/pages/
       - title: "Word Problems"
